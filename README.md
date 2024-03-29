@@ -21,3 +21,7 @@ This project focuses on image recognition using CIFAR-10 and Fashion-MNIST datas
     Python app.py
 ```
 5. Follow the local host for using the web UI.
+
+# Image-Recognition
+![Screenshot 2024-03-29 204032](https://github.com/Debasish7ripathy/Image-Recognition/assets/156603397/134bb659-8cff-467f-aa34-7436288b1dda)
+
