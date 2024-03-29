@@ -6,6 +6,18 @@ This project focuses on image recognition using CIFAR-10 and Fashion-MNIST datas
 
 ## Steps to Use the Project
 1. Use `main.py` to get the model if you want to create it from scratch. However, the model is already included in this project.
-2. After creating the model, use it in `app.py` to get the output.
-3. Run `app.py`.
-4. Follow the local host for using the web UI.
+```bash
+    git clone https://github.com/Debasish7ripathy/Image-Recognition.git
+```
+```bash
+  cd Image-Recognition
+```
+```bash
+  python main.py
+```
+3. After creating the model, use it in `app.py` to get the output.
+4. Run `app.py`.
+```bash
+    Python app.py
+```
+5. Follow the local host for using the web UI.
